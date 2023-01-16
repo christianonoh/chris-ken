@@ -1,0 +1,10 @@
+img {
+    display: block;
+
+}
+
+#image{
+    max-width: 100%;
+    align-self: center;
+}
+
